@@ -1,7 +1,7 @@
 import psycopg2
 from flask import jsonify, Flask
 from config import Config
-from constant import *
+from constants import *
 
 app = Flask(__name__)
 app.config.from_object(Config)
