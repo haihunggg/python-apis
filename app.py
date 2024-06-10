@@ -9,14 +9,14 @@ app.config.from_object(Config)
 
 @app.route("/api/warnings", methods=["GET"])
 def get_warnings():
-    def get_info(item: str) -> dict:
-
+    def get_info(host_slave, item: str) -> dict:
         res = {}
 
         for item in item.split(';')[:-1]:
             key, value = item.split('=')
             res[key] = value
 
+        res["Host"] = host_slave
         return res
 
     try:
@@ -31,8 +31,10 @@ def get_warnings():
         ans = {}
 
         for tenantid, name, connectionstring in cur:
-            if HOST in connectionstring:
-                ans[tenantid] = get_info(connectionstring)
+            if HOST_MASTER_1 in connectionstring:
+                ans[tenantid] = get_info(HOST_SLAVE_1, connectionstring)
+            elif HOST_MASTER_2 in connectionstring:
+                ans[tenantid] = get_info(HOST_SLAVE_2, connectionstring)
 
         cur.close()
         conn.close()

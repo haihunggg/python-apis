@@ -2,20 +2,12 @@ import datetime
 import pytz
 import requests
 import psycopg2
+import pandas as pd
 from collections import defaultdict
 from config import Config
-from datetime import timedelta, timezone
-from constants import CREATIONTIME
+from urllib.parse import quote_plus
+from sqlalchemy import create_engine
 
-
-def execute_sql(conn, sql_query):
-    cur = conn.cursor()
-    cur.execute(sql_query)
-    return cur
-
-
-tz_hcm = pytz.timezone('Asia/Ho_Chi_Minh')
-conn = cur = None
 
 try:
     resp = requests.get("http://127.0.0.1:5000/api/warnings").json()
@@ -31,36 +23,22 @@ try:
     for db_info, tenant_ids in out.items():
         db = dict(db_info)
 
-        conn = psycopg2.connect(
-            database=db["Database"],
-            user=db["User ID"],
-            password=db["Password"],
-            host=db["Host"],
-            port=db["Port"]
-        )
+        database = db["Database"],
+        user = db["User ID"],
+        password = db["Password"],
+        host = db["Host"],
+        port = db["Port"]
 
-        cur = execute_sql(conn, sending_tax)
+        DATABASE_URI = f'postgresql://{user}:{password}@{host}:{port}/{database}'
 
-        if not cur.fetchall():
-            conn = psycopg2.connect(Config.DATABASE_URI)
+        engine = create_engine(Config.DATABASE_URI)
 
-            cur = execute_sql(conn, sending_tax)
-            now = datetime.datetime.now()
-            start_time = now - timedelta(hours=CREATIONTIME)
+        df = pd.read_sql_query(sending_tax, con=engine)
 
-            for row in cur:
-                dt: datetime.datetime = row[1]
-                ans = datetime.datetime(dt.year, dt.month, dt.day, dt.hour, dt.minute, dt.second, dt.microsecond, tzinfo=None)
-                if start_time <= ans <= now:
-                    print(row[1])
-
-        conn.close()
-        break
+        if len(df) == 0:
+            engine = create_engine(Config.DATABASE_URI)
+            df = pd.read_sql_query(sending_tax, con=engine)
+            print(df)
 
 except (Exception, psycopg2.Error) as error:
     print("Error while connecting to PostgreSQL", error)
-finally:
-    if cur is not None:
-        cur.close()
-    if conn is not None:
-        conn.close()
