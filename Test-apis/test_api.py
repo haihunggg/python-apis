@@ -47,8 +47,18 @@ try:
 
         time.sleep(3)
 
+    try:
+        engine = create_engine(Config.DATABASE_URI)
+
+        with engine.connect() as conn:
+            df = pd.read_sql_query(sending_tax, conn)
+            result.append(df)
+    except Exception as e:
+        count += 1
+
     print(count)
-    ans = pd.concat(result)
+
+    ans = pd.concat(result, ignore_index=True)
 
     if len(ans) != 0:
         os.makedirs(Config.ERROR_INVOICE_FOLDER, exist_ok=True)

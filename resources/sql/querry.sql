@@ -6,7 +6,7 @@ FROM
     "MInvoice"."Invoice"
 WHERE
     "SendTaxStatus" = 3
-    AND "DateSign" >= NOW() - INTERVAL '6 HOURS'
+    --AND "DateSign" >= NOW() - INTERVAL '6 HOURS'
 GROUP BY
     "SellerTaxCode",
     "SellerLegalName"
