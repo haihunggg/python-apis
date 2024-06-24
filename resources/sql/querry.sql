@@ -1,16 +1,18 @@
 SELECT
-    "SellerTaxCode" AS "Taxcode",
-    "SellerLegalName",
-    COUNT(*) AS "InvoiceCount"
+  a."SellerTaxCode" AS "Taxcode",
+  a."SellerLegalName",
+  SUM(CASE WHEN b."IdAction" IS NULL THEN 1 ELSE 0 END) AS "SendingInvoiceHaveRequest",
+  SUM(CASE WHEN b."IdAction" IS NOT NULL THEN 1 ELSE 0 END) AS "SendingInvocieNoRequest"
 FROM
-    "MInvoice"."Invoice"
+  "MInvoice"."Invoice" a
+LEFT JOIN "MInvoice"."GatewayRequest" b
+ON a."TenantId" = b."TenantId"
 WHERE
-    "SendTaxStatus" = 3
-    --AND "DateSign" >= NOW() - INTERVAL '6 HOURS'
+  a."SendTaxStatus" = 3
+-- AND a."DateSign" >= NOW() - INTERVAL '6 HOURS'
 GROUP BY
-    "SellerTaxCode",
-    "SellerLegalName"
+  a."SellerTaxCode",
+  a."SellerLegalName"
 ORDER BY
-    "SellerTaxCode" ASC;
-
-
+  a."SellerTaxCode" ASC;
+ thô
