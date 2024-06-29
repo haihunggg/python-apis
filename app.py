@@ -1,10 +1,51 @@
+import os
+from collections import Counter
+from datetime import datetime
+
+import json
 import psycopg2
-from flask import jsonify, Flask
+from flask import jsonify, Flask, request
 from config import Config
 from constants import *
 
 app = Flask(__name__)
 app.config.from_object(Config)
+
+
+@app.route("/api/count")
+def count_sendinginvoices():
+    # start, end
+    start_date = request.args.get('start')
+    end_date = request.args.get('end')
+
+    start_date_obj = datetime.strptime(start_date, "%Y-%m-%d").date()
+    end_date_obj = datetime.strptime(end_date, "%Y-%m-%d").date()
+
+    error_files = os.listdir(Config.ERROR_INVOICE_FOLDER)
+
+    ans = []
+
+    for json_file in error_files:
+        json_path = os.path.join(Config.ERROR_INVOICE_FOLDER, json_file)
+        date_string = json_file.split('_')[0]
+        date_format = "%Y%m%d"
+        date_obj = datetime.strptime(date_string, date_format).date()
+
+        if start_date_obj <= date_obj <= end_date_obj:
+            with open(json_path, encoding="utf8") as jf:
+                res = json.load(jf)
+                ans.extend(res)
+
+    count_taxcodes = len(set(x["Taxcode"] for x in ans))
+
+    companies = [
+        f'{company_info["Taxcode"]} - {company_info["SellerLegalName"]}'
+        for company_info in ans
+    ]
+
+    result = dict(Counter(companies))
+
+    return jsonify({"so_luong_mst": count_taxcodes, "chi_tiet": result})
 
 
 @app.route("/api/warnings", methods=["GET"])
