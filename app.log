@@ -1,120 +1,199 @@
-2024-06-19 21:57:29,912 - INFO - main_app.py:38 - Starting the application
-2024-06-19 21:58:07,553 - INFO - main_app.py:87 - error db number: 1
+2024-07-01 10:06:14,661 - INFO - main_app.py:38 - Starting the application
+2024-07-01 10:06:34,680 - INFO - main_app.py:38 - Starting the application
+2024-07-01 10:06:58,585 - INFO - main_app.py:38 - Starting the application
+2024-07-01 10:49:45,632 - INFO - main_app.py:87 - error db number: 96
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108475633
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108475633-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108475633-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108475633-003
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317503806
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-205
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-207
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-301
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-302
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-303
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0316666702
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0100108254
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108777916
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20230214
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5400307683
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-339
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0401626002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314309166-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0109160957
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/4300279776
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/3300364395
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/1600193281
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/1600193281-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108671638
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0109407795
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0110216435-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-111
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-112
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317717903
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0109129611
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/4300358259
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/3500550800
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/8058542526
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106728649
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314716595-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/ Master_20230316
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-911
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0202194005
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0306340691-010
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/3602037394-004
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317701572-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108327836
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/3603529938
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0110262978
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5400250444
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0306049362
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0401804022
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0312391599
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317786230
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0700773421
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317821118
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314716595
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317588567
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20220515
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0102683789
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0304757779-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314716595-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108255388
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106606792
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0312524344
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0110095653
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20230626
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317887824
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317892648
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317895448
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317892937
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317880515
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317896152
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317899160
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317899259
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317895092
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317897879
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0101437558
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317872948
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317872803
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0109565907
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108081491
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5801323932
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317891700
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5801323932-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5801323932-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314140142-003
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0110390698
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0100107268
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20230731
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0107771936
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20230911
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314709816
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/2300104684
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-765
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20240401
 postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-19 21:58:07,569 - INFO - main_app.py:104 - done
-2024-06-19 21:59:09,096 - INFO - main_app.py:38 - Starting the application
-2024-06-19 21:59:46,653 - INFO - main_app.py:87 - error db number: 1
+postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/0106026495-542
+postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/0106026495-543
+postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240528
+postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/0106026495-115
+2024-07-01 10:49:45,647 - INFO - main_app.py:104 - done
+2024-07-01 10:54:47,365 - INFO - main_app.py:38 - Starting the application
+2024-07-01 11:33:41,324 - INFO - main_app.py:87 - error db number: 96
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108475633
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108475633-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108475633-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108475633-003
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317503806
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-205
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-207
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-301
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-302
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-303
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0316666702
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0100108254
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108777916
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20230214
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5400307683
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-339
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0401626002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314309166-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0109160957
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/4300279776
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/3300364395
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/1600193281
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/1600193281-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108671638
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0109407795
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0110216435-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-111
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-112
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317717903
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0109129611
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/4300358259
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/3500550800
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/8058542526
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106728649
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314716595-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/ Master_20230316
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-911
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0202194005
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0306340691-010
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/3602037394-004
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317701572-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108327836
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/3603529938
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0110262978
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5400250444
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0306049362
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0401804022
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0312391599
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317786230
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0700773421
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317821118
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314716595
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317588567
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20220515
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0102683789
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0304757779-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314716595-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108255388
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106606792
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0312524344
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0110095653
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20230626
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317887824
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317892648
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317895448
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317892937
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317880515
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317896152
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317899160
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317899259
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317895092
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317897879
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0101437558
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317872948
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317872803
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0109565907
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0108081491
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5801323932
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0317891700
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5801323932-001
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/5801323932-002
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314140142-003
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0110390698
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0100107268
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20230731
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0107771936
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20230911
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0314709816
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/2300104684
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/0106026495-765
+postgresql://minvoice:Minvoice%40123@10.10.12.17:5432/Master_20240401
 postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-19 21:59:46,661 - INFO - main_app.py:104 - done
-2024-06-19 22:00:48,204 - INFO - main_app.py:38 - Starting the application
-2024-06-19 22:01:25,960 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-19 22:01:25,970 - INFO - main_app.py:104 - done
-2024-06-19 22:02:27,471 - INFO - main_app.py:38 - Starting the application
-2024-06-19 22:03:17,395 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-19 22:03:17,401 - INFO - main_app.py:104 - done
-2024-06-19 22:04:23,588 - INFO - main_app.py:38 - Starting the application
-2024-06-19 22:05:38,247 - INFO - main_app.py:38 - Starting the application
-2024-06-19 22:06:16,012 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-19 22:06:16,021 - INFO - main_app.py:104 - done
-2024-06-20 15:25:00,332 - INFO - main_app.py:38 - Starting the application
-2024-06-20 15:26:23,807 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-20 15:26:23,826 - INFO - main_app.py:104 - done
-2024-06-20 15:27:25,214 - INFO - main_app.py:38 - Starting the application
-2024-06-20 15:28:05,960 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-20 15:28:05,965 - INFO - main_app.py:104 - done
-2024-06-20 15:29:07,376 - INFO - main_app.py:38 - Starting the application
-2024-06-20 15:29:48,355 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-20 15:29:48,364 - INFO - main_app.py:104 - done
-2024-06-20 15:30:49,684 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:30:41,605 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:31:35,009 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:33:21,795 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:33:21,804 - INFO - main_app.py:104 - done
-2024-06-26 20:33:22,224 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:33:22,235 - INFO - main_app.py:104 - done
-2024-06-26 20:34:23,734 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:35:10,532 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:35:10,541 - INFO - main_app.py:104 - done
-2024-06-26 20:36:12,002 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:36:54,768 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:36:54,775 - INFO - main_app.py:104 - done
-2024-06-26 20:37:56,647 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:38:36,187 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:38:36,196 - INFO - main_app.py:104 - done
-2024-06-26 20:39:37,954 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:40:17,513 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:40:17,523 - INFO - main_app.py:104 - done
-2024-06-26 20:41:19,122 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:41:59,000 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:41:59,010 - INFO - main_app.py:104 - done
-2024-06-26 20:43:00,783 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:43:40,478 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:43:40,486 - INFO - main_app.py:104 - done
-2024-06-26 20:44:42,161 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:45:21,934 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:45:21,942 - INFO - main_app.py:104 - done
-2024-06-26 20:46:24,114 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:47:03,169 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:47:03,179 - INFO - main_app.py:104 - done
-2024-06-26 20:48:05,288 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:48:44,817 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:48:44,873 - INFO - main_app.py:104 - done
-2024-06-26 20:49:47,392 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:50:29,100 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:50:29,111 - INFO - main_app.py:104 - done
-2024-06-26 20:51:30,530 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:52:15,646 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:52:15,654 - INFO - main_app.py:104 - done
-2024-06-26 20:53:17,204 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:53:56,594 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:53:56,605 - INFO - main_app.py:104 - done
-2024-06-26 20:54:58,240 - INFO - main_app.py:38 - Starting the application
-2024-06-26 20:55:38,269 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 20:55:38,274 - INFO - main_app.py:104 - done
-2024-06-26 20:56:39,661 - INFO - main_app.py:38 - Starting the application
-2024-06-26 22:13:05,457 - INFO - main_app.py:38 - Starting the application
-2024-06-26 22:13:22,159 - INFO - main_app.py:38 - Starting the application
-2024-06-26 22:13:49,979 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-26 22:13:59,974 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-29 14:47:53,895 - INFO - main_app.py:38 - Starting the application
-2024-06-29 14:49:36,143 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-29 14:51:02,745 - INFO - main_app.py:38 - Starting the application
-2024-06-29 14:51:49,444 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-29 14:53:00,364 - INFO - main_app.py:104 - done
-2024-06-29 16:26:55,368 - INFO - main_app.py:38 - Starting the application
-2024-06-29 16:28:29,893 - INFO - main_app.py:38 - Starting the application
-2024-06-29 16:29:58,746 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-29 16:29:58,762 - INFO - main_app.py:104 - done
-2024-06-29 16:31:01,053 - INFO - main_app.py:38 - Starting the application
-2024-06-29 16:31:54,041 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
-2024-06-29 16:31:54,057 - INFO - main_app.py:104 - done
-2024-06-29 16:32:55,955 - INFO - main_app.py:38 - Starting the application
-2024-06-29 16:33:35,103 - INFO - main_app.py:87 - error db number: 1
-postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240401
+postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/0106026495-542
+postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/0106026495-543
+postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/Master_20240528
+postgresql://minvoice:Minvoice%40123@103.61.122.195:5432/0106026495-115

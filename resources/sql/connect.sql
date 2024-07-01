@@ -1,4 +1,2 @@
-SELECT "TenantId", "Name", "Value"
-FROM "public"."AbpTenantConnectionStrings"
-WHERE  "TenantId" in  (SELECT "Id" FROM "public"."AbpTenants")
-LIMIT 10;
+SELECT a."TenantId", a."Name", a."Value",b."Name"
+FROM "public"."AbpTenantConnectionStrings" a JOIN "AbpTenants" b on b."Id" = a."TenantId";
