@@ -1,0 +1,797 @@
+[
+    {
+        "TaxCode": "0108475633",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN BC CONCEPT",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108475633-003",
+        "SellerLegalName": "CHI NHÁNH HỒ CHÍ MINH - CÔNG TY CỔ PHẦN BC CONCEPT",
+        "SendingInvoice": 6
+    },
+    {
+        "TaxCode": "0108777916",
+        "SellerLegalName": "CÔNG TY TNHH CỬA HÀNG ẤM ÁP",
+        "SendingInvoice": 93
+    },
+    {
+        "TaxCode": "0316176105",
+        "SellerLegalName": "HỘ KINH DOANH NHÀ SÁCH PHÁP LUẬT",
+        "SendingInvoice": 4
+    },
+    {
+        "TaxCode": "0110172611",
+        "SellerLegalName": "CÔNG TY TNHH VIVICARE GROUP",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "3703100525",
+        "SellerLegalName": "CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ NAM KHANG",
+        "SendingInvoice": 4
+    },
+    {
+        "TaxCode": "0107817274",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DU LỊCH TUYẾN QUANG LÊ",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0108888937",
+        "SellerLegalName": "CÔNG TY TNHH ẨM THỰC BÒ KING",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "1801736322",
+        "SellerLegalName": "CÔNG TY TNHH MINH QUANG CẦN THƠ",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109957541",
+        "SellerLegalName": "CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN VÀNG ĐỨC ÂN",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108933146",
+        "SellerLegalName": "NGUYỄN THỊ LĨNH",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0106143590",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ BẰNG HỘI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109459095",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ DỊCH VỤ THIÊN MINH MMC",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0107414772",
+        "SellerLegalName": "CÔNG TY TNHH JCF VIỆT NAM",
+        "SendingInvoice": 17
+    },
+    {
+        "TaxCode": "0110008805",
+        "SellerLegalName": "CÔNG TY TNHH THE TORA LAB",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108742335",
+        "SellerLegalName": "CÔNG TY TNHH PHÁT TRIỂN DỊCH VỤ TRỌNG HIẾU",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0110016281",
+        "SellerLegalName": "CÔNG TY TNHH CENTRAL FINE FOODS",
+        "SendingInvoice": 5
+    },
+    {
+        "TaxCode": "0106629285",
+        "SellerLegalName": "CÔNG TY TNHH GIẢI TRÍ WOW HÀN QUỐC",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0104344220",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN  BÁNH NGỌT THU HƯƠNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "1800274788",
+        "SellerLegalName": "CÔNG TY TRÁCH NHIỆM HỮU HẠN VICTORIA CẦN THƠ",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0313387034",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN BOSGAURUS COFFEE",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0109222917",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ NEW HOPS",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0106280068",
+        "SellerLegalName": "CÔNG TY TNHH SẢN XUẤT, DỊCH VỤ VÀ THƯƠNG MẠI AN TÂM",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0106184702",
+        "SellerLegalName": "CÔNG TY TNHH DỊCH VỤ HOÀNG CƯỜNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108411492",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN S - DELI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0315112469",
+        "SellerLegalName": "CÔNG TY TNHH NAKED FOODS",
+        "SendingInvoice": 8
+    },
+    {
+        "TaxCode": "0314506125-002",
+        "SellerLegalName": "CHI NHÁNH CÔNG TY TNHH TM DV N.M.A SÀI GÒN - NHÀ HÀNG LUX68 RESTAURANT",
+        "SendingInvoice": 8
+    },
+    {
+        "TaxCode": "0200519875-007",
+        "SellerLegalName": "CHI NHÁNH CÔNG TY TRÁCH NHIỆM HỮU HẠN NHẤT LY - NHÀ HÀNG TALATA",
+        "SendingInvoice": 5
+    },
+    {
+        "TaxCode": "0101826561",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ THU ANH",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109041170",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN NHÀ HÀNG TOMITA",
+        "SendingInvoice": 5
+    },
+    {
+        "TaxCode": "0102068127",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN KINH DOANH DỊCH VỤ HÀ ĐÔ",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109906882",
+        "SellerLegalName": "CÔNG TY TNHH FB INTERNATIONAL",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0316506522",
+        "SellerLegalName": "CÔNG TY TNHH TM DV VÀ GIẢI TRÍ LAS VEGAS - NHÀ HÀNG OZON MTV",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0316844218",
+        "SellerLegalName": "CÔNG TY TNHH TM DV NHÀ HÀNG 97",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0317210221",
+        "SellerLegalName": "CÔNG TY TNHH MTV NHÀ HÀNG OLYMPUS",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0315562193-001",
+        "SellerLegalName": "CÔNG TY TNHH DFC PLUS - CHI NHÁNH HÀ NỘI",
+        "SendingInvoice": 18
+    },
+    {
+        "TaxCode": "0110134246",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ CHEF & BROTHERS",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0401627729",
+        "SellerLegalName": "LÊ QUỐC CƯỜNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0310272229",
+        "SellerLegalName": "CÔNG TY TNHH LẠC MỸ VIỆT",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0311808618",
+        "SellerLegalName": "CÔNG TY TNHH LẠC HOA",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109735309",
+        "SellerLegalName": "CÔNG TY TNHH DỊCH VỤ ĂN UỐNG MIỀN TÂY BẮC",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0108873105",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI & DỊCH VỤ HT HOLDINGS VIỆT NAM",
+        "SendingInvoice": 7
+    },
+    {
+        "TaxCode": "2802150758",
+        "SellerLegalName": "CÔNG TY TNHH DỊCH VỤ Ô TÔ QUANG TRUNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0101066896",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN SỐNG",
+        "SendingInvoice": 40
+    },
+    {
+        "TaxCode": "0317504623",
+        "SellerLegalName": "CÔNG TY TRÁCH NHIỆM HỮU HẠN TÂN SƠN TRANG CÀ PHÊ VÀ BIA",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0312874684",
+        "SellerLegalName": "NGUYỄN SANH VIỆT",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109882920",
+        "SellerLegalName": "CÔNG TY TNHH MTV NGỌC LONG",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0107742477",
+        "SellerLegalName": "CÔNG TY CP TẦM NHÌN QUỐC TẾ ALADDIN",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0108865168",
+        "SellerLegalName": "CÔNG TY TNHH NAMA SUSHI LINH ANH",
+        "SendingInvoice": 60
+    },
+    {
+        "TaxCode": "8605934761-001",
+        "SellerLegalName": "PHẠM VĂN QUẢNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "8558160356-001",
+        "SellerLegalName": "PHẠM THỊ CHÍNH",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0102925692",
+        "SellerLegalName": "CÔNG TY TNHH ĐỈNH THÁI PHONG",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0101492118",
+        "SellerLegalName": "CÔNG TY TNHH MAI HẠNH",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0110251359",
+        "SellerLegalName": "CÔNG TY TNHH SHOWTIME",
+        "SendingInvoice": 42
+    },
+    {
+        "TaxCode": "0108883791",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỂN PHỞ THÌN HÀ NỘI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109511316",
+        "SellerLegalName": "CÔNG TY TNHH ĐẦU TƯ VÀ PHÁT TRIỂN DỊCH VỤ LONG KHANG",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "8354417878-001",
+        "SellerLegalName": "NGUYỄN VĂN HUYNH",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0101436297",
+        "SellerLegalName": "DOANH NGHIỆP TƯ NHÂN VÀNG BẠC HÙNG NHUNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0107838299",
+        "SellerLegalName": "CÔNG TY TNHH SUWON GALBI VINA",
+        "SendingInvoice": 6
+    },
+    {
+        "TaxCode": "0107077478",
+        "SellerLegalName": "CÔNG TY TNHH G66",
+        "SendingInvoice": 74
+    },
+    {
+        "TaxCode": "0108552006",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ MỲ TAY TO",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0317695777",
+        "SellerLegalName": "CÔNG TY TNHH B.U.D - YUME",
+        "SendingInvoice": 9
+    },
+    {
+        "TaxCode": "0107328428",
+        "SellerLegalName": "CÔNG TY TNHH LDLS",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0315827587",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN TAKAHIRO",
+        "SendingInvoice": 4
+    },
+    {
+        "TaxCode": "0109293643",
+        "SellerLegalName": "CÔNG TY TNHH TUKTUK THAI BISTRO HÀ NỘI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0305398000-001",
+        "SellerLegalName": "CHI NHÁNH CÔNG TY TNHH MỘT THÀNH VIÊN GIAO NHẬN VẬN TẢI VÀ THƯƠNG MẠI CHÂU ÂU VÀNG- NEM NƯỚNG GÁNH",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109470010",
+        "SellerLegalName": "CÔNG TY TNHH CƠ KHÍ VÀ THƯƠNG MẠI VẬT TƯ HOÀNG PHÁT",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0106631855",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI TỔNG HỢP BẢO KHANG",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "5702115360-001",
+        "SellerLegalName": "CHI NHÁNH CÔNG TY CỔ PHẦN ĐẦU TƯ LÊ HỒNG PHONG - NHÀ HÀNG ISEAFOOD HẠ LONG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "5400307683",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN ĐẦU TƯ SƠN ANH",
+        "SendingInvoice": 296
+    },
+    {
+        "TaxCode": "0401626002",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ DU LỊCH HÙNG BẢO ANH",
+        "SendingInvoice": 11
+    },
+    {
+        "TaxCode": "4300279776",
+        "SellerLegalName": "NGUYỄN VĂN ANH DUẨN",
+        "SendingInvoice": 16
+    },
+    {
+        "TaxCode": "3300364395",
+        "SellerLegalName": "CÔNG TY TNHH MỘT THÀNH VIÊN DU LỊCH ĐỐNG ĐA",
+        "SendingInvoice": 16
+    },
+    {
+        "TaxCode": "1600193281",
+        "SellerLegalName": "CÔNG TY TNHH MỘT THÀNH VIÊN KHÁCH SẠN VICTORIA HÀNG CHÂU",
+        "SendingInvoice": 14
+    },
+    {
+        "TaxCode": "1600193281-002",
+        "SellerLegalName": "CHI NHÁNH CÔNG TY TNHH MỘT THÀNH VIÊN KHÁCH SẠN VICTORIA HÀNG CHÂU - LÀNG DU LỊCH VICTORIA NÚI SAM",
+        "SendingInvoice": 11
+    },
+    {
+        "TaxCode": "0317717903",
+        "SellerLegalName": "CÔNG TY TNHH XNK PHÂN PHỐI VŨ HOÀNG",
+        "SendingInvoice": 11
+    },
+    {
+        "TaxCode": "4300358259",
+        "SellerLegalName": "CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI TỔNG HỢP CHẤN HƯNG",
+        "SendingInvoice": 17
+    },
+    {
+        "TaxCode": "8058542526",
+        "SellerLegalName": "NHÀ HÀNG DELICATO - BÙI ANH TUẤN",
+        "SendingInvoice": 13
+    },
+    {
+        "TaxCode": "0202194005",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN CÔNG NGHIỆP WELDCOM RETAIL",
+        "SendingInvoice": 18
+    },
+    {
+        "TaxCode": "3602037394-004",
+        "SellerLegalName": "CHI NHÁNH 4 - CÔNG TY TNHH THƯƠNG MẠI & DỊCH VỤ THÀNH MINH PHÁT - TRẠM XĂNG DẦU HOÀNG GIA PHÁT",
+        "SendingInvoice": 15
+    },
+    {
+        "TaxCode": "3603529938",
+        "SellerLegalName": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI TRÀ VÀ CÀ PHÊ AN KHẢI",
+        "SendingInvoice": 10
+    },
+    {
+        "TaxCode": "0110262978",
+        "SellerLegalName": "CÔNG TY TNHH TMDV & ĐT THE JADE 90",
+        "SendingInvoice": 15
+    },
+    {
+        "TaxCode": "5400250444",
+        "SellerLegalName": "CÔNG TY TRÁCH NHIỆM HỮU HẠN ANH PHONG",
+        "SendingInvoice": 120
+    },
+    {
+        "TaxCode": "0306049362",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ CUỘC SỐNG CỦA TÔI",
+        "SendingInvoice": 63
+    },
+    {
+        "TaxCode": "0401804022",
+        "SellerLegalName": "CÔNG TY TNHH KHÁCH SẠN & DỊCH VỤ DU LỊCH MINH QUANG",
+        "SendingInvoice": 33
+    },
+    {
+        "TaxCode": "0317786230",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ PHÂN PHỐI HAPPY FOOD",
+        "SendingInvoice": 20
+    },
+    {
+        "TaxCode": "0317821118",
+        "SellerLegalName": "CÔNG TY TNHH S DECOR VN",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0107538087",
+        "SellerLegalName": "CÔNG TY TNHH NAA VIỆT NAM",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0314551826",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN DMARIS PHÚ MỸ HƯNG",
+        "SendingInvoice": 5
+    },
+    {
+        "TaxCode": "8535651975",
+        "SellerLegalName": "ĐỖ VĂN DUY",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "4201976889",
+        "SellerLegalName": "CÔNG TY TNHH TRẦM HƯƠNG LOTUS KHÁNH HÒA",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0202161539",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN Y TẾ MEDHOMES",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "8426799121-001",
+        "SellerLegalName": "PHẠM THỊ THU THẢO",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "4300595965",
+        "SellerLegalName": "CÔNG TY TNHH MỘT THÀNH VIÊN QUẢNG CÁO SÓNG MỚI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0105371435",
+        "SellerLegalName": "CÔNG TY TNHH MỘT THÀNH VIÊN XÂY DỰNG VÀ THƯƠNG MẠI NGA CƯỜNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108747206",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ CÂY SƯA",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0402156952",
+        "SellerLegalName": "CÔNG TY TNHH MTV THƯƠNG MẠI DỊCH VỤ DTM",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0402194186",
+        "SellerLegalName": "CÔNG TY TNHH TM&DV DELI F&B",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108375967",
+        "SellerLegalName": "Phan Thanh Thẩm",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0307147563",
+        "SellerLegalName": "CAO THANH HIỀN",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "8071758605",
+        "SellerLegalName": "NGUYỄN THỊ HƯƠNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108567482",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ THẾ ĐỨC",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0109651874",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỰ KIỆN THÀNH NHÂN",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108522121",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN THƯƠNG MẠI QUỐC TẾ VÀ DỊCH VỤ MẶT TRỜI MỚI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0202116007",
+        "SellerLegalName": "CÔNG TY TNHH ĐẦU TƯ MSJ",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0106712159",
+        "SellerLegalName": "CÔNG TY TNHH THỰC PHẨM XANH VÀ TRẮNG",
+        "SendingInvoice": 11
+    },
+    {
+        "TaxCode": "0102751277",
+        "SellerLegalName": "ĐỖ THỊ THANH HÀ",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0110042789",
+        "SellerLegalName": "CÔNG TY TNHH DỊCH VỤ VÀ THƯƠNG MẠI G&T",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0108187138",
+        "SellerLegalName": "CÔNG TY TNHH MINDSET POWER",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "8750548296-001",
+        "SellerLegalName": "PHẠM PHƯƠNG THẢO",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0317826476",
+        "SellerLegalName": "CÔNG TY TNHH AMAI SUSHI",
+        "SendingInvoice": 5
+    },
+    {
+        "TaxCode": "0500563586",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI TỔNG HỢP SƠN HÀ",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0317885104",
+        "SellerLegalName": "CÔNG TY TNHH NHÀ HÀNG XƯA VÀ NAY QQ7",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0108255388",
+        "SellerLegalName": "CÔNG TY TNHH ĐẦU TƯ NGỌC THỊNH PHÁT",
+        "SendingInvoice": 12
+    },
+    {
+        "TaxCode": "0108025088",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN C&T",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "2700793809",
+        "SellerLegalName": "CÔNG TY CP - TỔNG CÔNG TY LIÊN DOANH XÂY DỰNG CÔNG TRÌNH 18",
+        "SendingInvoice": 5
+    },
+    {
+        "TaxCode": "0108934485",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN YASUKY VIỆT NHẬT",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "4600260039",
+        "SellerLegalName": "CÔNG TY TNHH MINH ĐẠO PHÁT",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0110284393",
+        "SellerLegalName": "CÔNG TY TNHH THỂ THAO & DỊCH VỤ TL FITNESS",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0402024522",
+        "SellerLegalName": "CÔNG TY TNHH XÂY DỰNG THƯƠNG MẠI VÀ DỊCH VỤ DANAECOHOME",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0317250697",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN TẬP ĐOÀN KIẾN AN",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0315928754",
+        "SellerLegalName": "CÔNG TY TNHH SOPA TECHNOLOGY",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0600265209",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN TIN HỌC - ĐIỆN TỬ NAM ĐỊNH",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "0101086564",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN DU LỊCH THƯƠNG MẠI TRUNG PHONG",
+        "SendingInvoice": 4
+    },
+    {
+        "TaxCode": "0202204493",
+        "SellerLegalName": "CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI CƠ KHÍ HÀ BẮC",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0317905840",
+        "SellerLegalName": "CÔNG TY TNHH REN FLORIST",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0110345776",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN SOLID01",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0309489918-005",
+        "SellerLegalName": "CHI NHÁNH KIM MÃ 2 - CÔNG TY TNHH MỘT THÀNH VIÊN KHÁCH SẠN AZUMAYA",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0109785363",
+        "SellerLegalName": "CÔNG TY TNHH WEEKND HÀ NỘI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0110351025",
+        "SellerLegalName": "CÔNG TY TNHH YÊN SA",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "8786606657-001",
+        "SellerLegalName": "HỘ KINH DOANH 1977 BEER",
+        "SendingInvoice": 2
+    },
+    {
+        "TaxCode": "2900326840",
+        "SellerLegalName": "CÔNG TY TNHH  PHÚ VINH",
+        "SendingInvoice": 5
+    },
+    {
+        "TaxCode": "2901905456",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ DUNG ANH",
+        "SendingInvoice": 4
+    },
+    {
+        "TaxCode": "0317887824",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ HÀNG HÓA LÂM HOA",
+        "SendingInvoice": 10
+    },
+    {
+        "TaxCode": "0317892648",
+        "SellerLegalName": "CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI DỊCH VỤ LÊ NGỌC PHÁT",
+        "SendingInvoice": 19
+    },
+    {
+        "TaxCode": "0317895448",
+        "SellerLegalName": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ LU MINH PHÁT",
+        "SendingInvoice": 10
+    },
+    {
+        "TaxCode": "0317892937",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ THIÊN TUẤN VINA",
+        "SendingInvoice": 12
+    },
+    {
+        "TaxCode": "0317880515",
+        "SellerLegalName": "CÔNG TY TNHH SẢN XUẤT GIA CÔNG VÀ MAY MẶC TIẾN ĐẠT",
+        "SendingInvoice": 16
+    },
+    {
+        "TaxCode": "0317896152",
+        "SellerLegalName": "CÔNG TY TNHH KINH DOANH THIẾT BỊ VĂN PHÒNG PHẨM TUẤN AN",
+        "SendingInvoice": 10
+    },
+    {
+        "TaxCode": "0317899160",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TUẤN KHANG PETRO",
+        "SendingInvoice": 33
+    },
+    {
+        "TaxCode": "0317895092",
+        "SellerLegalName": "CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI DỊCH VỤ AN VẠN PHÁT",
+        "SendingInvoice": 17
+    },
+    {
+        "TaxCode": "0317897879",
+        "SellerLegalName": "CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI DỊCH VỤ VIỆT PHƯƠNG PETRO",
+        "SendingInvoice": 18
+    },
+    {
+        "TaxCode": "0317872948",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ ANH PHÁT TIẾN",
+        "SendingInvoice": 15
+    },
+    {
+        "TaxCode": "0317872803",
+        "SellerLegalName": "CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI DỊCH VỤ NGUYỄN ÁNH VINA",
+        "SendingInvoice": 18
+    },
+    {
+        "TaxCode": "5801323932",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN SANDALS",
+        "SendingInvoice": 18
+    },
+    {
+        "TaxCode": "0317891700",
+        "SellerLegalName": "CÔNG TY TNHH KINH DOANH ẨM THỰC CHUT THAI",
+        "SendingInvoice": 10
+    },
+    {
+        "TaxCode": "5801323932-001",
+        "SellerLegalName": "CHI NHÁNH TEA WORLD - CÔNG TY CỔ PHẦN SANDALS",
+        "SendingInvoice": 32
+    },
+    {
+        "TaxCode": "5801323932-002",
+        "SellerLegalName": "CHI NHÁNH TEA GARDEN - CÔNG TY CỔ PHẦN SANDALS",
+        "SendingInvoice": 18
+    },
+    {
+        "TaxCode": "0110306978",
+        "SellerLegalName": "CÔNG TY TNHH THỰC PHẨM THÚY THI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "3702985882",
+        "SellerLegalName": "CÔNG TY TNHH CÔNG CỤ CẮT CHÍNH XÁC HOẰNG LỢI VIỆT NAM",
+        "SendingInvoice": 16
+    },
+    {
+        "TaxCode": "8453868751-001",
+        "SellerLegalName": "NGUYỄN TRỌNG NGHĨA",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0317978503",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ CẨM HÀ",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0317974604",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ BANYAN TREE CAFE",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0317023126-001",
+        "SellerLegalName": "CHI NHÁNH 1 TẠI HÀ NỘI - CÔNG TY TNHH DỊCH VỤ ĂN UỐNG RỒNG THÁI",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0102193209",
+        "SellerLegalName": "CÔNG TY TNHH XANH VÀ TRẮNG",
+        "SendingInvoice": 1
+    },
+    {
+        "TaxCode": "0107771936",
+        "SellerLegalName": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ NHÀ HÀNG IBIERO",
+        "SendingInvoice": 10
+    },
+    {
+        "TaxCode": "0304384220",
+        "SellerLegalName": "CÔNG TY TNHH THƯƠNG MẠI - DỊCH VỤ - XUẤT NHẬP KHẨU NGỌC THẢO",
+        "SendingInvoice": 19
+    },
+    {
+        "TaxCode": "0402104143",
+        "SellerLegalName": "CÔNG TY TNHH MAMA'S KITCHEN",
+        "SendingInvoice": 3
+    },
+    {
+        "TaxCode": "0316546042",
+        "SellerLegalName": "CÔNG TY TNHH PHÁT TRIỂN GIÁO DỤC CHIE",
+        "SendingInvoice": 1
+    }
+]

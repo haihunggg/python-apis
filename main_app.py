@@ -66,8 +66,8 @@ try:
             engine = create_engine(DATABASE_URI)
             with engine.connect() as conn:
                 for ten_id in tenant_ids:
-                    sending_tax = sending_tax.replace('?', ten_id)
-                    df = pd.read_sql_query(sending_tax, conn)
+                    querry_sending_tax = sending_tax.replace('?', ten_id)
+                    df = pd.read_sql_query(querry_sending_tax, conn)
                     result.append(df)
         except Exception as e:
             db_errors.append(DATABASE_URI)
