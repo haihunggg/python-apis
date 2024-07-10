@@ -37,7 +37,7 @@ def format_file_name():
 try:
     logger.info("Starting the application")
     resp = requests.get("http://127.0.0.1:5000/api/warnings").json()
-    # resp = {'3a096fa2-9489-4c0e-7cb1-1b8792822520': {'Database': 'Master_20230214', 'Host': '10.10.12.17', 'Password': 'Minvoice@123', 'Port': '5432', 'User ID': 'minvoice'}}
+    # resp = {'3a066711-48cb-71cf-17c8-5288f370c008': {'Database': 'MinvoiceCloud', 'Host': '103.61.122.194', 'Password': 'Minvoice@123', 'Port': '5432', 'User ID': 'minvoice'}}
     out = defaultdict(list)
 
     for tenant_id, conn_str in resp.items():
