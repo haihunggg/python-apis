@@ -158,3 +158,42 @@ postgresql://minvoice:Minvoice%40123@103.61.122.194:5432/MinvoiceCloud
 2024-07-09 13:55:01,119 - INFO - main_app.py:89 - error db number: 1
 postgresql://minvoice:Minvoice%40123@103.61.122.194:5432/MinvoiceCloud
 2024-07-09 13:55:01,120 - INFO - main_app.py:106 - done
+2024-07-10 20:10:32,009 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:13:26,558 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:13:49,601 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:14:59,494 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:16:26,134 - INFO - main_app.py:89 - error db number: 1
+postgresql://minvoice:Minvoice%40123@103.61.122.194:5432/MinvoiceCloud
+2024-07-10 20:16:26,399 - INFO - main_app.py:106 - done
+2024-07-10 20:16:43,964 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:17:56,872 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:19:32,169 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:19:51,044 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:21:19,248 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:22:30,008 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:22:56,330 - INFO - main_app.py:89 - error db number: 1
+postgresql://minvoice:Minvoice%40123@103.61.122.194:5432/MinvoiceCloud
+2024-07-10 20:22:56,331 - INFO - main_app.py:106 - done
+2024-07-10 20:23:04,364 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:23:28,633 - INFO - main_app.py:89 - error db number: 1
+postgresql://minvoice:Minvoice%40123@103.61.122.194:5432/MinvoiceCloud
+2024-07-10 20:23:28,634 - INFO - main_app.py:106 - done
+2024-07-10 20:24:04,067 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:26:18,208 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:27:52,907 - INFO - main_app.py:90 - error db number: 1
+postgresql://minvoice:Minvoice%40123@103.61.122.194:5432/MinvoiceCloud
+2024-07-10 20:27:53,421 - INFO - main_app.py:107 - done
+2024-07-10 20:28:49,710 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:30:38,446 - INFO - main_app.py:89 - error db number: 1
+postgresql://minvoice:Minvoice%40123@103.61.122.194:5432/MinvoiceCloud
+2024-07-10 20:30:38,964 - INFO - main_app.py:106 - done
+2024-07-10 20:32:12,609 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:34:08,928 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:34:24,349 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:34:34,241 - INFO - main_app.py:90 - error db number: 1
+postgresql://minvoice:Minvoice%40123@103.61.122.194:5432/MinvoiceCloud
+2024-07-10 20:43:57,307 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:44:10,949 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:48:58,456 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:51:33,720 - INFO - main_app.py:38 - Starting the application
+2024-07-10 20:53:01,162 - INFO - main_app.py:38 - Starting the application

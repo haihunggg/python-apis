@@ -46,6 +46,9 @@ try:
     with open("resources/sql/querry.sql") as sql_file:
         sending_tax = sql_file.read()
 
+    with open("resources/sql/connect_cloud.sql") as sql_file:
+        sending_tax_cloud = sql_file.read()
+
     result = []
     count = 0
     db_errors = []
@@ -79,9 +82,16 @@ try:
         engine = create_engine(Config.DATABASE_URI)
 
         with engine.connect() as conn:
-            df = pd.read_sql_query(sending_tax, conn)
-            result.append(df)
+            tenant_ids_cloud = pd.read_sql_query(sending_tax_cloud, conn)
+
+
+        with engine.connect() as conn:
+            for ten_id in tenant_ids_cloud['Id'].astype(str):
+                querry_sending_tax = sending_tax.replace('?', ten_id)
+                df = pd.read_sql_query(querry_sending_tax, conn)
+                result.append(df)
     except Exception as e:
+        print(e)
         db_errors.append(Config.DATABASE_URI)
         count += 1
 
